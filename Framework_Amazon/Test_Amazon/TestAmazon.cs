@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Framework_Amazon;
-
+//agrego el framework para poder usar sus metodos.
 namespace Test_Amazon
 {
     [TestClass]
